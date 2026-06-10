@@ -3,3 +3,8 @@ langgraph
 langchain
 langchain-core
 langchain-community
+langchain-groq
+arxiv
+wikipedia
+python-dotenv
+langchain-tavily
